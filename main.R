@@ -1,0 +1,1 @@
+plot(x=rpois(10,10), y=rpois(10,10))
